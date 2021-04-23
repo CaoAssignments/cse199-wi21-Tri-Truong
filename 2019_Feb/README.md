@@ -6,7 +6,7 @@
     Find the maximum and minimum number of moves before the cows become grouped in N
     of consecutive locations.  
 ## Solution:
-    Soln: We need to solve 2 problems: min and max
+    We need to solve 2 problems: min and max
     - For the min, we want to look for the N-length window containing the most cows
     (fewest empty spaces) because we can fill in the x empty spaces in the window
     with exactly x moves.
@@ -16,13 +16,13 @@
 ## Time complexity:
 O(NlogN)
 # Problem 2:
-## Topics: Simulation, Recursion
+## Topics: 
 ## Problem formulation: 
 
 ## Solution:
 
 # Problem 3:
-# Topics: Graph, Sorting
+# Topics:
 ## Problem formulation:
 
 ## Solution: 
