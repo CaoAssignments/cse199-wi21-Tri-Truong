@@ -56,3 +56,4 @@ Given N (1 <= N <= 10^5) pairs of integers. These pairs can interact with each o
     3. Compute max_right where max_right[i] = max y value up to i position from the right  
     4. For loop i from 0 to N-2, if min_left[i] > max_right[i], increment ans  
     5. Return ans  
+Time complexity: O(N)
