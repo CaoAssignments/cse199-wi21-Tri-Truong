@@ -29,7 +29,7 @@ Opimization: Start with i = N and add cows on by one. Suppose we have solved the
 - If j's second choice was not taken by some cow earlier, j will take it. This step requires us to do recursion on j to find out if j steals its 2nd choice cereal from some other cow later in line.  
 Time complexity: O(N) because the sum of the recursion depths is O(N)
 # Problem 3:
-# Topic: Graph, Sorting
+# Topics: Graph, Sorting
 ## Problem formulation:
 Given N (1 <= N <= 10^5) pairs of integers. These pairs can interact with each other. The interaction is as follows: for any 2 pairs of integers (x_i, y_i) and (x_j, y_j), with -10^9 <= x,y <= 10^9 if x_i <= x_j and y_i <= y_j, one of the 2 pairs disappear. Return the min number of pairs left at the end.
 ## Solution: 
