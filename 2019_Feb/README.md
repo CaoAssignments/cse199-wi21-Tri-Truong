@@ -28,7 +28,7 @@ O(NlogN)
 ## Solution:
 
 # Problem 3:
-# Topics: Graphs, Connected Components
+## Topics: Graphs, Connected Components
 ## Problem formulation:
 
 ## Solution: 
