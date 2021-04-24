@@ -16,8 +16,14 @@
 ## Time complexity:
 O(NlogN)
 # Problem 2:
-## Topics: 
+
+## Topics: DP, Prefix Sum
 ## Problem formulation: 
+    Given N rectangles (1 <= N <= 10^5), each with sides parallel to  
+    the coordinate axes, each described by the coordinates of its lower-left  
+    and upper-right corner points, the coordinate values are in the range  
+    0 <= x,y <= 1000. Return the area covered with exactly K coats of paint  
+    painted with (1 <= K <= 10^5), K is given as input.  
 
 ## Solution:
 
